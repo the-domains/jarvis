@@ -1,0 +1,28 @@
+name: Jarvis
+favicon: null
+layout_spectrum: 0.5942073010373861
+typography_spectrum: 0.8959086595568806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.029357152292504907
+  lightness: 0.428085322258994
+  saturation: 0.1325483692344278
+  rhythmicContrast: 0.9833441721275449
+purpose: []
